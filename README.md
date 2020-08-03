@@ -1,8 +1,10 @@
 # HPM-with-Iron
 
-A patch to fix the iron shortage in early mid game HPM. Drag the folders in The Iron Patch into your HPM folder.
+A patch to fix the iron shortage in early mid game HPM. Drag the folders into your HPM folder.
 
-Changelog from HPM 0.4.1:
+Link to HPM: https://github.com/arkhometha/Historical-Project-Mod
+
+Changelog from HPM 0.4.6:
 
 -Changed the technology unlocks for the Metallurgy and Chemistry & Electricity trees to be closer to vanilla
 
