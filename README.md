@@ -1,6 +1,6 @@
 # HPM-with-Iron
 
-A patch to fix the iron shortage in early mid game HPM.
+A patch to fix the iron shortage in early mid game HPM. Drag the folders in The Iron Patch into your HPM folder.
 
 Changelog from HPM 0.4.1:
 
